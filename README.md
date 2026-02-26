@@ -7,6 +7,8 @@ Intrucciones de uso:
 
 3. corre
 
-cambios desde el clone
+cambios desde el clone.
+
+Modificado en GitHub
 
 
